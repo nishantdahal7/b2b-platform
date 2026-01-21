@@ -1,0 +1,38 @@
+export const MOCK_POSTS = [
+    {
+        title: "Scaling B2B Content Operations: A Framework for Tech Leaders",
+        excerpt: "Learn how to build a content engine that drives consistent pipeline without burning out your small marketing team. We explore the architectural approach to content.",
+        category: "Content Ops",
+        date: "May 12, 2024",
+        readTime: "8 min read",
+        slug: "scaling-b2b-content-operations",
+        image: "/blog/post-1.jpg",
+    },
+    {
+        title: "The Data-Driven Difference: Why Generic SaaS Content Fails",
+        excerpt: "In the age of AI, generic content is a commodity. Discover how to use internal data and original research to command attention and authority.",
+        category: "Strategy",
+        date: "April 28, 2024",
+        readTime: "6 min read",
+        slug: "data-driven-difference",
+        image: "/blog/post-2.jpg",
+    },
+    {
+        title: "Demystifying AI for B2B Stakeholders: A Communication Guide",
+        excerpt: "Stop talking about features and start talking about outcomes. A guide for technical founders on explaining complex AI concepts to non-technical buyers.",
+        category: "AI",
+        date: "April 15, 2024",
+        readTime: "10 min read",
+        slug: "demystifying-ai-b2b",
+        image: "/blog/post-3.jpg",
+    },
+    {
+        title: "Cybersecurity Marketing: Building Trust in Zero-Trust Environments",
+        excerpt: "How to market security products without relying on fear-mongering. Focus on resilience, partnership, and technical transparency.",
+        category: "Security",
+        date: "March 22, 2024",
+        readTime: "7 min read",
+        slug: "cybersecurity-marketing-trust",
+        image: "/blog/post-4.jpg",
+    },
+]
